@@ -1,1 +1,1 @@
-# trendect-oss
+# trendect-oss - Trendect on OSS Project
