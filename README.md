@@ -1,1 +1,3 @@
 # trendect-oss - Trendect on OSS Project
+## 1 - About this project
+このプロジェクトは、SNSシステムである「Trendect」をOSS化するプロジェクトです。
